@@ -11,4 +11,4 @@ A new line I wrote on my local computer <- Todavia no se borro en remoto
 
 quiero dejar el local
 cambie el numero local a cero
-00 local computer github
+22 local computer github cambie en gitub de 00 a 22
