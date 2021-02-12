@@ -14,3 +14,4 @@ cambie el numero local a cero
 11 local computer github cambiando en craken 00 por 11
 otro cambio en kraken
 A
+En 17 modificacion remota
