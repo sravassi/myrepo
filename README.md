@@ -16,4 +16,4 @@ otro cambio en kraken
 Ahora es un merge con meld
 En 17 modificacion remota
 cambio en 17 local!!
-cambio local en 19
+cambio2 en server sin local!! 19
