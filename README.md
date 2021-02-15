@@ -1,22 +1,2 @@
 # myrepo
-Testing my repo
-A line I wrote on my local computer
-
-A new line I wrote on my local computer. Borre linea
-
-
-A new line I wrote on my local computer
-A new line I wrote on my local computer <- Todavia no se borro en remoto
-
-
-quiero dejar el local
-cambie el numero local a cero
-11 local computer github cambiando en craken 00 por 11
-otro cambio en kraken
-Ahora es un merge con meld
-En 17 modificacion remota
-cambio en 17 local!!
-cambio2 en server sin local!! 19
-
-
-Sale la diferencia server?
+de cero remote repo
